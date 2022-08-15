@@ -1,2 +1,2 @@
-# Ders-Se-im-Ekran-
+# Ders Secim Ekrani
 Ders Seçim Kaydı
